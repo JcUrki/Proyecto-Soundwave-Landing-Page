@@ -15,7 +15,7 @@ const GlobalStyle = createGlobalStyle`
     --accent-text: #BC3A80;
     --circle-1: rgba(188,58,128,0.1);
     --circle-2: rgba(52,87,178,0.1);
-    --font: Poppins;
+    --font: 'Poppins', sans-serif;
     --font-color: white;
   }
 
