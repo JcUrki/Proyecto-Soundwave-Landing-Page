@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Proyecto-Soundwave-Landing-Page/static/css/main.e6c13ad2.css",
-    "main.js": "/Proyecto-Soundwave-Landing-Page/static/js/main.ba658343.js",
+    "main.js": "/Proyecto-Soundwave-Landing-Page/static/js/main.d0fe44c8.js",
     "static/js/787.fadc5591.chunk.js": "/Proyecto-Soundwave-Landing-Page/static/js/787.fadc5591.chunk.js",
     "static/media/landing-page-girl.png": "/Proyecto-Soundwave-Landing-Page/static/media/landing-page-girl.9d276ac0bfa4c188903e.png",
     "static/media/covers.jpg": "/Proyecto-Soundwave-Landing-Page/static/media/covers.77f7098f609ef18767e5.jpg",
@@ -13,11 +13,11 @@
     "static/media/facebook.svg": "/Proyecto-Soundwave-Landing-Page/static/media/facebook.9a78c5da61adcff89056f886e3b14dcd.svg",
     "static/media/albums.svg": "/Proyecto-Soundwave-Landing-Page/static/media/albums.edcbb360c6cfb46704f7516b3c510d45.svg",
     "main.e6c13ad2.css.map": "/Proyecto-Soundwave-Landing-Page/static/css/main.e6c13ad2.css.map",
-    "main.ba658343.js.map": "/Proyecto-Soundwave-Landing-Page/static/js/main.ba658343.js.map",
+    "main.d0fe44c8.js.map": "/Proyecto-Soundwave-Landing-Page/static/js/main.d0fe44c8.js.map",
     "787.fadc5591.chunk.js.map": "/Proyecto-Soundwave-Landing-Page/static/js/787.fadc5591.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ba658343.js"
+    "static/js/main.d0fe44c8.js"
   ]
 }
