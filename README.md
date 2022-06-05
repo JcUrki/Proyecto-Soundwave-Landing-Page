@@ -1,3 +1,5 @@
+Link to trello:  https://trello.com/invite/b/LNUhKSX4/2e46ad9e5a1d4128ef4c00d3ac7e104d/soundwave-landing-page
+
 in# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

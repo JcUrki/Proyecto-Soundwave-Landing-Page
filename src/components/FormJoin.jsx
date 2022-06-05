@@ -16,7 +16,7 @@ function FormJoin() {
     }
 
     return (
-        <FormStyle onSubmit={handleSubmit(onSubmit)}>
+        <FormStyle onClick={handleSubmit(onSubmit)}>
             <div>
                 <label>Name: </label>
                 <InputsForm  
